@@ -11,3 +11,12 @@ Yes, as you can see down there, I have done a little bit of everything.
 * Lua: 1 year
 * Python: 3 years
 * Ruby: 2 years
+
+## Editors I've used
+* UNIX ed
+* Emacs
+* Nano
+* Neovim
+* Vim
+* Visual Studio Code
+* Visual Stdio
