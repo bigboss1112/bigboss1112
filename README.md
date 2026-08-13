@@ -1,4 +1,4 @@
-## Hi there 👋
+## Who I am
 I am bigboss1112. Mainly a C programmer, I make little libraries, scripts and apps that are most of the time for the terminal.  
 Yes, as you can see down there, I have done a little bit of everything.  
   
