@@ -10,10 +10,10 @@ I am bigboss1112. Mainly a C programmer, I make little libraries, scripts and ap
 * Ruby
 
 ## Editors I've used
-* UNIX ed
 * Emacs
 * Nano
 * Neovim
+* UNIX ed (UNIX 10th edition and GNU implementation)
 * Vim
 * Visual Studio Code
 * Visual Studio
