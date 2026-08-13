@@ -19,4 +19,4 @@ Yes, as you can see down there, I have done a little bit of everything.
 * Neovim
 * Vim
 * Visual Studio Code
-* Visual Stdio
+* Visual Studio
