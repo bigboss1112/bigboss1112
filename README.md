@@ -3,3 +3,11 @@ I am bigboss1112. Mainly a C programmer, I make little libraries, scripts and ap
 Yes, as you can see down there, I have done a little bit of everything.  
   
 [![My Skills](https://skillicons.dev/icons?i=vim,neovim,emacs,vscode,c,cpp,python,ruby,bash,linux,windows)](https://skillicons.dev)
+
+## Programming experience
+* Assembly: 1 year
+* Bash: 3 years
+* C: 3 years
+* Lua: 1 year
+* Python: 3 years
+* Ruby: 2 years
