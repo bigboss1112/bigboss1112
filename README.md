@@ -1,13 +1,15 @@
-# Hi, I'm bigboss1112 👋
-*(The "1112" is because I was born on the 11th of the 12th)*
-
 ## Who I am
-Mainly a C programmer. I build small libraries, scripts, and terminal applications. 
+I am bigboss1112. A C programmer who enjoys low-level control, the terminal, and projects I keep going back into but never finish.  
+*1112 because I was born on the 11th day of the 12th month*
 
-## Tech Stack
-- **Languages:** C, Assembly, C++ (low-level), Python, Ruby, Bash (scripting)
-- **Specialties:** Low-level terminal control, robust parsing, and fighting modern software bloat.
+## Programming languages I've used
+*The further down the language is on this list, the more I either hate it or I don't know that much about*
+- C
+- Python
+- Ruby
+- Bash
+- C++
+- Assembly
 
----
-
-> **tl;dr:** A nerd who knows way too much about terminals and low-level systems—and genuinely believes most of the modern tech stack (yes, including UTF-8) could use a complete redesign.
+## tl;dr
+I'm just a nerd who likes low-level control and terminals way too much for their own good... Did I mention C?
